@@ -1,2 +1,2 @@
 # WS_vendor
-Web Service Vendors
+Tools for Business Intelligence exclusive for vendors retail and wholesalers
